@@ -80,7 +80,7 @@ git clone https://github.com/ruchimaury/FakeCommentAnalyzer.git
 
 
 
- Made with ❤️ by ruchimaury
+ Made with ❤️ by ruchimaurya
 
 
 
